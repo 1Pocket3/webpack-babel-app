@@ -16,7 +16,6 @@ cd your-react-webpack-project
 
 3.Установите зависимости:
 
-```bash
 npm install
 
 
