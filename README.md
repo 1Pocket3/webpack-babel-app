@@ -11,17 +11,17 @@
 
 2.Перейдите в директорию проекта:
 
-```bash
-cd your-react-webpack-project
+   ```bash
+   cd your-react-webpack-project
 
 3.Установите зависимости:
-
-npm install
+   ```bash
+   npm install
 
 
 Запуск
 1.Запустите сервер разработки с помощью команды:
-```bash
+   ```bash
   npx webpack serve
 
 2.Откройте ваш браузер и перейдите по адресу http://localhost:3000. Вы увидите ваше React-приложение.
