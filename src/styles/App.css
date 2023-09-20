@@ -1,0 +1,30 @@
+.grey {
+  color: grey;
+  font-weight: bold;
+  font-size: 11px;
+}
+
+.action {
+  color: #e84b14;
+  font-size: smaller;
+}
+
+.verticalAlign {
+  vertical-align: top;
+}
+
+.cell {
+  margin-bottom: 13px;
+}
+
+.black {
+  align-items: flex-start;
+  color: black;
+  font-weight: bold;
+  font-size: 11px;
+  margin-top: 3px;
+}
+
+.verticalAlign {
+  vertical-align: top;
+}
